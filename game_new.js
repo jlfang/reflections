@@ -1106,6 +1106,8 @@ $(function () {
   var elapsed;
   var delta;
 
+  var tag;
+
   var mainLoop = function () {
     context.clearRect(0, 0, Game.canvasWidth, Game.canvasHeight);
 
