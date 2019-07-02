@@ -1095,7 +1095,7 @@ $(function () {
   extraDude.preMove = null;
   extraDude.children = [];
 
-  var i, j = 0;
+  var i, j = 1;
   var showFramerate = false;
   var avgFramerate = 0;
   var frameCount = 0;
